@@ -40,3 +40,4 @@ Traditional cybersecurity systems rely on rule-based detection, which fails to i
 ---
 
 ## 🏗️ Architecture
+Dataset → Preprocessing → Feature Engineering → ML Model → Detection → Alerts → Dashboard
